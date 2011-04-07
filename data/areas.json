@@ -1,0 +1,74 @@
+[
+    {
+        "id": "CEO",
+        "name": "CEO"
+    },
+    {
+        "id": "COMM",
+        "name": "Communications"
+    },
+    {
+        "id": "CORPDELV_WORK ",
+        "name": "Corporate Development"
+    },
+    {
+        "id": "DEV",
+        "name": "Development"
+    },
+    {
+        "id": "EDUCATION",
+        "name": "Education"
+    },
+    {
+        "id": "ES",
+        "name": "Education Services"
+    },
+    {
+        "id": "FINANCE",
+        "name": "Finance"
+    },
+    {
+        "id": "INTERNATIONAL",
+        "name": "INTERNATIONAL"
+    },
+    {
+        "id": "IT",
+        "name": "IT"
+    },
+    {
+        "id": "OPS",
+        "name": "Operations"
+    },
+    {
+        "id": "RES",
+        "name": "Research"
+    },
+    {
+        "id": "RES_DEV",
+        "name": "Research Development"
+    },
+    {
+        "id": "WBD",
+        "name": "WBD"
+    },
+    {
+        "id": "WDO",
+        "name": "WDO"
+    },
+    {
+        "id": "WORKDELV",
+        "name": "Workforce Development"
+    },
+    {
+        "id": "WORKFORCE CURRICULUM",
+        "name": "WORKFORCE CURRICULUM"
+    },
+    {
+        "id": "WSS",
+        "name": "WSS"
+    },
+    {
+        "id": "WTD",
+        "name": "WTD"
+    }
+]

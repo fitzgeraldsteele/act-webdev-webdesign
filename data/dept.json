@@ -1,0 +1,512 @@
+[
+    {
+        
+        "name": "ADMINISTRATION",
+        "area": "CEO"
+    },
+    {
+        
+        "name": "WASHINGTON DC",
+        "area": "CEO"
+    },
+    {
+        
+        "name": "HUMAN RESOURCES",
+        "area": "CEO"
+    },
+    {
+        
+        "name": "INTERNAL AUDIT",
+        "area": "CEO"
+    },
+    {
+        
+        "name": "ADMINISTRATION",
+        "area": "FINANCE"
+    },
+    {
+        
+        "name": "ACCT SYSTEMS & CONTROLS",
+        "area": "FINANCE"
+    },
+    {
+        
+        "name": "FINANCIAL PLANNING",
+        "area": "FINANCE"
+    },
+    {
+        
+        "name": "CENTRAL SERVICES",
+        "area": "FINANCE"
+    },
+    {
+        
+        "name": "LEGAL DEPARTMENT",
+        "area": "FINANCE"
+    },
+    {
+        
+        "name": "ADMINISTRATION",
+        "area": "COMM"
+    },
+    {
+        
+        "name": "PUBLICATIONS",
+        "area": "COMM"
+    },
+    {
+        
+        "name": "INFORMATION RESOURCE CTR",
+        "area": "COMM"
+    },
+    {
+        
+        "name": "MEDIA RELATIONS",
+        "area": "COMM"
+    },
+    {
+        
+        "name": "ACT WEBSITE",
+        "area": "COMM"
+    },
+    {
+        
+        "name": "ADMINISTRATION",
+        "area": "DEV"
+    },
+    {
+        
+        "name": "HIGHER EDUCATION PROGRAMS",
+        "area": "DEV"
+    },
+    {
+        
+        "name": "PLACEMENT",
+        "area": "DEV"
+    },
+    {
+        
+        "name": "ESSP",
+        "area": "DEV"
+    },
+    {
+        
+        "name": "EDITORIAL & QUALITY ASSURANCE",
+        "area": "DEV"
+    },
+    {
+        
+        "name": "TECHNICAL SUPPORT",
+        "area": "DEV"
+    },
+    {
+        
+        "name": "GMAT",
+        "area": "DEV"
+    },
+    {
+        
+        "name": "PERFORMANCE ASSESSMENT DEVELOPMENT",
+        "area": "DEV"
+    },
+    {
+        
+        "name": "PERFORMANCE SCORING CTR",
+        "area": "DEV"
+    },
+    {
+        
+        "name": "K12 ASSESSMENT",
+        "area": "DEV"
+    },
+    {
+        
+        "name": "CLASSROOM CONNECTIONS",
+        "area": "DEV"
+    },
+    {
+        
+        "name": "ITEM BANKING UNIT",
+        "area": "DEV"
+    },
+    {
+        
+        "name": "ADMINISTRATION",
+        "area": "ES"
+    },
+    {
+        
+        "name": "ACT STATE",
+        "area": "ES"
+    },
+    {
+        
+        "name": "CLIENT OUTREACH AND PARTNERSHIPS",
+        "area": "ES"
+    },
+    {
+        
+        "name": "CONTRACT MANAGEMENT",
+        "area": "ES"
+    },
+    {
+        
+        "name": "PROGRAM SOLUTIONS AND SUPPORT SERVICES",
+        "area": "ES"
+    },
+    {
+        
+        "name": "MARKET STRATEGY AND SERVICES",
+        "area": "ES"
+    },
+    {
+        
+        "name": "WEST REGION",
+        "area": "ES"
+    },
+    {
+        
+        "name": "SOUTHWEST REGION",
+        "area": "ES"
+    },
+    {
+        
+        "name": "MIDWEST REGION",
+        "area": "ES"
+    },
+    {
+        
+        "name": "SOUTHEAST REGION",
+        "area": "ES"
+    },
+    {
+        
+        "name": "NORTHEAST REGION",
+        "area": "ES"
+    },
+    {
+        
+        "name": "IBU",
+        "area": "WTD"
+    },
+    {
+        
+        "name": "TEST DEVELOPMENT",
+        "area": "WTD"
+    },
+    {
+        
+        "name": "WORKKEYS DEVELOPMENT",
+        "area": "WTD"
+    },
+    {
+        
+        "name": "OPERATIONS",
+        "area": "WDO"
+    },
+    {
+        
+        "name": "ADMINISTRATION",
+        "area": "RES"
+    },
+    {
+        
+        "name": "MEASUREMENT & REPORTING SVCS",
+        "area": "RES"
+    },
+    {
+        
+        "name": "MEASUREMENT RESEARCH",
+        "area": "RES"
+    },
+    {
+        
+        "name": "STATISTICAL SERVICES",
+        "area": "RES"
+    },
+    {
+        
+        "name": "APPLIED RESEARCH ADMIN",
+        "area": "RES"
+    },
+    {
+        
+        "name": "CAREER TRANSITIONS RES",
+        "area": "RES"
+    },
+    {
+        
+        "name": "EDUC & WORKFORCE RESEARCH SRVS",
+        "area": "RES"
+    },
+    {
+        
+        "name": "SURVEY RESEARCH SERVICES",
+        "area": "RES"
+    },
+    {
+        
+        "name": "ADMINISTRATION",
+        "area": "EDUCATION"
+    },
+    {
+        
+        "name": "NCEA ADMINISTRATION",
+        "area": "EDUCATION"
+    },
+    {
+        
+        "name": "DATA QUALITY CAMPAIGN",
+        "area": "EDUCATION"
+    },
+    {
+        
+        "name": "NCEA EDUCATION INITIATIVES",
+        "area": "EDUCATION"
+    },
+    {
+        
+        "name": "NCEA OUTREACH",
+        "area": "EDUCATION"
+    },
+    {
+        
+        "name": "NCEA RESEARCH",
+        "area": "EDUCATION"
+    },
+    {
+        
+        "name": "NCEA PROGRAMMING",
+        "area": "EDUCATION"
+    },
+    {
+        
+        "name": "ADMINISTRATION",
+        "area": "RES_DEV"
+    },
+    {
+        
+        "name": "ADMINISTRATION",
+        "area": "WORKDELV"
+    },
+    {
+        
+        "name": "ADMINISTRATION",
+        "area": "WORKFORCE CURRICULUM"
+    },
+    {
+        
+        "name": "MARKETING_SALES",
+        "area": "WORKFORCE CURRICULUM"
+    },
+    {
+        
+        "name": "TECHNOLOGY_OUTREACH",
+        "area": "WORKFORCE CURRICULUM"
+    },
+    {
+        
+        "name": "ADMINISTRATION",
+        "area": "CORPDELV_WORK"
+    },
+    {
+        
+        "name": "CORPORATE ASSESSMENT INFRASTRUCTURE",
+        "area": "CORPDELV_WORK "
+    },
+    {
+        
+        "name": "DATA WAREHOUSE",
+        "area": "CORPDELV_WORK "
+    },
+    {
+        
+        "name": "CORE SERVICES",
+        "area": "CORPDELV_WORK "
+    },
+    {
+        
+        "name": "SUPPORT SERVICES",
+        "area": "WSS"
+    },
+    {
+        
+        "name": "CUSTOMER SERVICES",
+        "area": "WSS"
+    },
+    {
+        
+        "name": "ADMINISTRATION",
+        "area": "WBD"
+    },
+    {
+        
+        "name": "BUSINESS DEVELOPMENT & MARKETING",
+        "area": "WBD"
+    },
+    {
+        
+        "name": "SALES",
+        "area": "WBD"
+    },
+    {
+        
+        "name": "I/O PSYCHOLOGY",
+        "area": "WBD"
+    },
+    {
+        
+        "name": "ADMINISTRATION",
+        "area": "IT"
+    },
+    {
+        
+        "name": "CLIENT ENGAGEMENT",
+        "area": "IT"
+    },
+    {
+        
+        "name": "E-BUSINESS DEVELOPMENT",
+        "area": "IT"
+    },
+    {
+        
+        "name": "ARCHITECTURE",
+        "area": "IT"
+    },
+    {
+        
+        "name": "OPERATIONS",
+        "area": "IT"
+    },
+    {
+        
+        "name": "DATA",
+        "area": "IT"
+    },
+    {
+        
+        "name": "AUDIT & REPORTING",
+        "area": "IT"
+    },
+    {
+        
+        "name": "ADMINISTRATION",
+        "area": "OPS"
+    },
+    {
+        
+        "name": "CUSTOMER SERVICE CENTER ADMIN",
+        "area": "OPS"
+    },
+    {
+        
+        "name": "E-BUSINESS-ADMINISTRATION",
+        "area": "OPS"
+    },
+    {
+        
+        "name": "CONTRACT OPERATIONS",
+        "area": "OPS"
+    },
+    {
+        
+        "name": "STATE TESTING",
+        "area": "OPS"
+    },
+    {
+        
+        "name": "PRODUCTION PLANNING AND SERVICES",
+        "area": "OPS"
+    },
+    {
+        
+        "name": "ASSESS PROG SERV ADMIN",
+        "area": "OPS"
+    },
+    {
+        
+        "name": "INSTITUTIONAL SERVICES",
+        "area": "OPS"
+    },
+    {
+        
+        "name": "PROG ADMIN SERVICES",
+        "area": "OPS"
+    },
+    {
+        
+        "name": "REGISTRATION",
+        "area": "OPS"
+    },
+    {
+        
+        "name": "TEST ADMINISTRATION",
+        "area": "OPS"
+    },
+    {
+        
+        "name": "RECORDS",
+        "area": "OPS"
+    },
+    {
+        
+        "name": "TEST SECURITY",
+        "area": "OPS"
+    },
+    {
+        
+        "name": "CUSTOMER SERVICES",
+        "area": "OPS"
+    },
+    {
+        
+        "name": "ACT PROGRAM DEVELOPMENT",
+        "area": "OPS"
+    },
+    {
+        
+        "name": "CUSTOMER SERVICES_HV",
+        "area": "OPS"
+    },
+    {
+        
+        "name": "PRODUCTION SERVICES",
+        "area": "OPS"
+    },
+    {
+        
+        "name": "PRINTING & BINDERY SOLUTIONS",
+        "area": "OPS"
+    },
+    {
+        
+        "name": "DISTRIBUTION SERVICES",
+        "area": "OPS"
+    },
+    {
+        
+        "name": "ADMIN",
+        "area": "INTERNATIONAL"
+    },
+    {
+        
+        "name": "LINDQUIST BLDG",
+        "area": "FINANCE"
+    },
+    {
+        
+        "name": "TYLER BLDG",
+        "area": "FINANCE"
+    },
+    {
+        
+        "name": "DAVIDSEN BLDG",
+        "area": "FINANCE"
+    },
+    {
+        
+        "name": "ACT CIRCLE",
+        "area": "FINANCE"
+    }
+]

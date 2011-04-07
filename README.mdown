@@ -1,0 +1,36 @@
+Hello, and thanks for your interest in working for ACT!
+
+We're looking for a Web Designer/Web Developer with the technical skills to rapidly deliver beautiful web and mobile apps for ACT's various customers, and the people skills to understand and work with product goals and user needs.  See the full job description:
+
+http://act.org/humanresources/job.html?id=140
+
+Interested?  Here's what you can do next:
+
+1. [Apply for the position through our website](http://act.org/humanresources/job.html?id=140)
+
+2. Help us get to know you, and how you approach design and development by completing this small exercise.
+
+**Design a simple, fast way for ACT employees to request a new website project.  A project requires the following fields:**
+
+* Project Name
+* Requestor's Name
+* Area (select from list -- examples found in the data directory)
+* Department (select from list -- examples found in the data directory)
+* Phone
+* Desired Completion Date
+* Project Description
+
+Feel free to use any kind of implementation you wish (html, jQuery, PHP, CSS frameworks).  But be prepared to explain your chosen approach provides an intuitive, attractive, and maintainable user interface.
+
+We often use:
+* jQuery, jQueryUI
+* 960.gs
+* PHP
+* MySQL
+
+But again, we want to know what you're thinking about.
+
+Submission
+----------
+
+Please submit a pull request to github, or submit via [email](mailto:jerry.steele@act.org).
