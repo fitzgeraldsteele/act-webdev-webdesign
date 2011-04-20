@@ -6,11 +6,11 @@ http://act.org/humanresources/job.html?id=140
 
 Interested?  Here's what you can do next:
 
-1. [Apply for the position through our website](http://act.org/humanresources/job.html?id=140)
+1. [Apply for the position through our website](http://act.org/humanresources/job.html?id=140).  Likely, you've done this already.
 
 2. Help us get to know you, and how you approach design and development by completing this small exercise.
 
-**Design a simple, fast way for ACT employees to request a new website project.  A project requires the following fields:**
+**Design a simple, fast way for ACT employees to request a new website project.  A project request requires the following fields:**
 
 * Project Name
 * Requestor's Name
@@ -20,7 +20,7 @@ Interested?  Here's what you can do next:
 * Desired Completion Date
 * Project Description
 
-Feel free to use any kind of implementation you wish (html, jQuery, PHP, CSS frameworks).  But be prepared to explain your chosen approach provides an intuitive, attractive, and maintainable user interface.
+This project contains a starter layout, but feel free to use any kind of implementation you wish (html, jQuery, PHP, Rails, CSS frameworks, etc).  But be prepared to explain how your chosen approach provides an intuitive, attractive, and maintainable user interface.
 
 Submission
 ----------
